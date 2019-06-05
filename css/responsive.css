@@ -1,3 +1,5 @@
-@media only screen (min-width: 768px){
-  
+@media only screen (max-width: 1108px){
+  .wrapper {
+    width: 90%;
+  }
 }
